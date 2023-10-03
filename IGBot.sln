@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F5D233B8-AFA8-423B-B9DD-251D0ABEBC0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGBot", "src\IGBot\IGBot.csproj", "{813DD103-B43A-4BF4-931A-A0F3277AC4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813DD103-B43A-4BF4-931A-A0F3277AC4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813DD103-B43A-4BF4-931A-A0F3277AC4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813DD103-B43A-4BF4-931A-A0F3277AC4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813DD103-B43A-4BF4-931A-A0F3277AC4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{813DD103-B43A-4BF4-931A-A0F3277AC4DF} = {F5D233B8-AFA8-423B-B9DD-251D0ABEBC0A}
+	EndGlobalSection
+EndGlobal
