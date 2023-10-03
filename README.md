@@ -8,6 +8,7 @@ IGBot - is Telegram bot for getting posts and information from accounts.
 /getpost - Recent account posts
 /language - Language settings (in development)
 
-How it looks:
-
-![image description](.\src\IGBot\imgs\t1.png)
+Get public posts and menu:
+![image description](./src/IGBot/imgs/t1.png)
+Get general information:
+![image description](./src/IGBot/imgs/t2.png)
